@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Latihan Evaluasi Mandiri",
+    "slug": "latihan-evaluasi-mandiri",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": ["fetch"]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
